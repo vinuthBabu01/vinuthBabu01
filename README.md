@@ -99,6 +99,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinuth-babu/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vinuthBabu01)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-4A90E2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vinuthkalmidi.netlify.app/)
+
 
 ---
 ## ⚡ Recent GitHub Activity
