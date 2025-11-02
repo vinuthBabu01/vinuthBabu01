@@ -1,5 +1,5 @@
 ## Hi there, I'm Vinuth Babu Kalmidi 👋
-[![GitHub Work Profile](https://img.shields.io/badge/-My%20Work%20GitHub-6e40c9?logo=github&logoColor=white&style=for-the-badge)]([https://github.com/vinuth01](https://github.com/vinuth01?tab=overview&from=2022-12-01&to=2022-12-31))
+[![GitHub Work Profile](https://img.shields.io/badge/-My%20Work%20GitHub-6e40c9?logo=github&logoColor=white&style=for-the-badge)](https://github.com/vinuth01?tab=overview&from=2022-12-01&to=2022-12-31)
 
 
 **Computer Engineering Graduate | Full-Stack Developer | Backend Engineer | Tech Enthusiast**
