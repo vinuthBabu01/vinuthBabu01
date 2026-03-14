@@ -59,7 +59,7 @@
 ## 💼 Work Experience
 
 ### **Full Stack Engineer**  
-**Byju’s | Bengaluru, India | October 2021 – March 2023**  
+**Byju’s | Bengaluru, India | August 2021 – July 2023**  
 - Built scalable microservices and automated workflows that reduced loan processing time by 40% and improved operational efficiency by 30% in enterprise-grade Loan Management Systems.  
 - Developed and maintained backend REST APIs using Node.js, PostgreSQL, and Kafka to ensure high availability and performance.  
 - Integrated third-party financial systems (CreditSaison, Propelld, ABFL) to streamline loan origination and onboarding, reducing manual errors by 35%.  
@@ -71,7 +71,7 @@
 ---
 
 ### **Frontend Development Intern**  
-**TechCiti Technologies Pvt. Ltd. | Bengaluru, India | March 2021 – May 2021**  
+**TechCiti Technologies Pvt. Ltd. | Bengaluru, India | Jan 2021 – June 2021**  
 - Developed a responsive front-end app using JavaScript, HTML5, CSS3, and Bootstrap, following mobile-first design principles.
 - Integrated REST APIs and structured reusable components, improving interactivity and modularity.
 - Designed database schemas and supported CI/CD deployment, gaining exposure to Angular-compatible design workflows.
