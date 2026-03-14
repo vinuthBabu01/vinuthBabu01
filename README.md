@@ -7,7 +7,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=vinuthBabu01&color=blueviolet&style=flat-square)
 
 - 🎓 Master's in Computer Engineering from Syracuse University (May 2025), with a focus on scalable systems, backend development, and applied NLP.
-- 💼 2+ years of experience as a Full Stack Engineer at Byju’s, delivering production-grade systems and improving operational efficiency in financial services.
+- 💼 3+ years of experience as a Full Stack Engineer at Byju’s, delivering production-grade systems and improving operational efficiency in financial services.
 - 🌱 Always learning — currently exploring advanced system design, cloud-native applications, and ML/NLP workflows.
 - 💡 Passionate about building high-performance, user-centric software and collaborating across teams.
 - 🤝 Open to opportunities in full-stack engineering, backend infrastructure, and AI-enabled product development.
