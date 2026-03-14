@@ -58,6 +58,25 @@
 
 ## 💼 Work Experience
 
+### **AI Data Associate**  
+**META (via RWS Group) | Remote| November 2025 – Present**  
+- Evaluating and scoring AI-generated responses to improve LLM reliability.
+- Modeling and evaluating AI models on multilingual datasets.
+- Collaborating asynchronously within global annotation teams to maintain high-quality standards for AI training datasets.
+
+---
+
+### **Software Engineer**  
+**Syracuse University | Syracuse, NewYork | June 2025 – Present**  
+- Currently developing an end-to-end automated job application system capable of parsing resumes, scraping job listings, and generating tailored application documents.
+- Designing backend APIs with Python (Flask/FastAPI) to handle resume parsing, job scraping, and filtering based on user preferences and skills.
+- Integrating large language models such as OpenAI GPT to dynamically generate personalized resumes and cover letters for each job.
+- Building a React-based frontend to display job listings, job details, and provide downloadable, tailored documents.
+- Implementing job scraping pipelines for platforms like LinkedIn and Indeed using Python automation tools such as Selenium and BeautifulSoup.
+
+
+---
+
 ### **Full Stack Engineer**  
 **Byju’s | Bengaluru, India | August 2021 – July 2023**  
 - Built scalable microservices and automated workflows that reduced loan processing time by 40% and improved operational efficiency by 30% in enterprise-grade Loan Management Systems.  
@@ -71,7 +90,7 @@
 ---
 
 ### **Frontend Development Intern**  
-**TechCiti Technologies Pvt. Ltd. | Bengaluru, India | Jan 2021 – June 2021**  
+**TechCiti Technologies Pvt. Ltd. | Bengaluru, India | January 2021 – June 2021**  
 - Developed a responsive front-end app using JavaScript, HTML5, CSS3, and Bootstrap, following mobile-first design principles.
 - Integrated REST APIs and structured reusable components, improving interactivity and modularity.
 - Designed database schemas and supported CI/CD deployment, gaining exposure to Angular-compatible design workflows.
